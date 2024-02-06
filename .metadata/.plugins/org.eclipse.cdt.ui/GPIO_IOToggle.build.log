@@ -1,0 +1,10 @@
+21:01:01 **** Incremental Build of configuration Debug for project GPIO_IOToggle ****
+make -j8 all 
+arm-none-eabi-size   GPIO_IOToggle.elf 
+   text	   data	    bss	    dec	    hex	filename
+   7648	     32	   1568	   9248	   2420	GPIO_IOToggle.elf
+Finished building: default.size.stdout
+ 
+
+21:01:01 Build Finished. 0 errors, 0 warnings. (took 440ms)
+
